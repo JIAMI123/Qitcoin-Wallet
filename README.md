@@ -1,4 +1,4 @@
-# qtrwallet
+# QTCWallet
 
 QTCWallet是一款专为Qitcoin开发的轻钱包，您可以自由创建和导入钱包，安全管理数字资产，便捷地转账收款指向等操作
 
